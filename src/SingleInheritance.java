@@ -12,7 +12,11 @@ class Cat extends Animal
 	//}
 	
 	void sound(){
-		System.out.println("Meow.. Meow ..");
+		System.out.println("Cat sound is ..Meow.. Meow ..");
+	}
+	
+	void meow(){
+		System.out.println("Cat is speaking ....");
 	}
 }
 
